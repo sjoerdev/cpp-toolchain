@@ -6,6 +6,11 @@
 2. Select the ``Desktop development with C++`` workload
 3. Select the ``MSVC Build Tools`` and the ``Windows SDK``
 
+**Clang:**
+1. Go to the [llvm downloads](https://github.com/llvm/llvm-project/releases) on github
+2. Download the ``LLVM-X.X.X-win64.exe`` windows installer file
+3. Run the installer and choose ``Add LLVM to the system PATH for all users`` when prompted
+
 ## Setup Build Systems
 
 **XMake:**
