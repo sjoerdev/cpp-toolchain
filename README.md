@@ -34,7 +34,7 @@
     "configurations":
     [
         {
-            "name": "xmake",
+            "name": "build_compile_commands",
             "compileCommands": ".vscode/compile_commands.json"
         }
     ]
