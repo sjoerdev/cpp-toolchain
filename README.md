@@ -4,7 +4,7 @@
 
 1. Download the [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 2. Select the ``Desktop development with C++`` workload
-3. Select the ``MSVC Build Tools`` and the ``Windows SDK`` (optionally)
+3. Select the ``MSVC Build Tools`` and the ``Windows SDK``
 
 **Clang:**
 1. Go to the [llvm downloads](https://github.com/llvm/llvm-project/releases) on github
